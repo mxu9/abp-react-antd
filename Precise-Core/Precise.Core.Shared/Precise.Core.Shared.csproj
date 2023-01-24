@@ -10,6 +10,10 @@
     <PackageReference Include="Abp.Zero.Common" Version="4.0.2" />
     <PackageReference Include="Abp.ZeroCore" Version="4.0.2" />
     <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="2.1.1" />
+    <PackageReference Include="MySql.Data.EntityFramework" Version="8.0.11" />
+    <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="8.0.11" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="2.1.4" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql.Design" Version="1.1.2" />
   </ItemGroup>
 
 </Project>
